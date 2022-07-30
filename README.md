@@ -2,5 +2,6 @@
 
 ### App Nativo Android de Notícias Sobre Futebol Feminino
 
-:sparkles Linguagem: Kotlin
-:sparkles Software: Android Studio
+#
+:sparkling_heart: Linguagem: Kotlin
+:sparkling_heart: Software: Android Studio
