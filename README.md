@@ -1,2 +1,6 @@
-# -soccer-news-app
-App Nativo Android de Notícias Sobre Futebol Feminino
+# Soccer News App
+
+### App Nativo Android de Notícias Sobre Futebol Feminino
+
+Linguagem: Kotlin
+Software: Android Studio
