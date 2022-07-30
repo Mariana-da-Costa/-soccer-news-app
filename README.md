@@ -2,5 +2,5 @@
 
 ### App Nativo Android de Notícias Sobre Futebol Feminino
 
-Linguagem: Kotlin
-Software: Android Studio
+:sparkles Linguagem: Kotlin
+:sparkles Software: Android Studio
